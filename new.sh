@@ -2,4 +2,4 @@ hi
 
 just learning about git
 
-and also exloring the git codes properly
+editing in master branch and also exloring the git codes properly
