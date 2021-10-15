@@ -1,5 +1,6 @@
 .classpath
 .projects
 /.nodes_modules
- bash.exe.stackdump
+bash.exe.stackdump
+gitignore
 
